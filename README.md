@@ -1,7 +1,7 @@
 # QOSF-cohort-8-Task-4
 Repository for QOSF cohort 8 screening task. Task 4 has been implemented in Qiskit
 
-## Tasks Implement
+## Tasks Implemented
 1.  Implent SWAP test with no noise to check if overlap is same as one found mathematically
 2.  Implement SWAP test with noise. Line is fitted to get an idea of the error in overlap as depolarisation error is increased. All 3 questions
     suggests a linear decrease in overlap
